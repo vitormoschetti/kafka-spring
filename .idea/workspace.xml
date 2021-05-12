@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="437fd69f-42a8-4531-9ff8-4b0ed41055a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sRDu4OaLc8g5eKgivqXpAAQ67a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/log/src/main/java/br/com/ecommerce/log" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/log/src/main/java/br/com/ecommerce/log" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.kafka.Producer.kafka" />
+      <recent name="br.com.kafka.Consumer.kafka" />
+      <recent name="br.com.kafka.Producer.kafka.config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.kafka.Consumer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vitor\Documents\repos\kafka\log\src\main\java\br\com\ecommerce\log" />
+      <recent name="C:\Users\vitor\Documents\repos\kafka\email\src\main\java\br\com\ecommerce\email" />
+      <recent name="C:\Users\vitor\Documents\repos\kafka\newOrder\src\main\java\br\com\ecommerce\newOrder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NewOrder">
+    <configuration name="Email" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.ecommerce.email.EmailApplication" />
+      <module name="email" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FraudDetector" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.ecommerce.fraudeDetector.FraudeDetectorApplication" />
+      <module name="fraudeDetector" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Log" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.ecommerce.log.LogApplication" />
+      <module name="log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewOrder" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.ecommerce.newOrder.NewOrderApplication" />
+      <module name="newOrder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.com.ecommerce.newOrder.NewOrderApplication" />
+      <module name="newOrder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NewOrder" />
+      <item itemvalue="Application.Email" />
+      <item itemvalue="Application.Log" />
+      <item itemvalue="Application.FraudDetector" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620850236688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1620850236688" />
+    <state x="412" y="160" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1620850234596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="160" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1620850234596" />
+    <state x="408" y="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620845549364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="228" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1620845549364" />
+    <state x="479" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1620843255592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1620843255592" />
+    <state x="320" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1620846232012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="320" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1620846232012" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620849365499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1620849365499" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1620849962309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620849962309" />
+    <state width="1323" height="397" key="GridCell.Tab.0.bottom" timestamp="1620850407086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="397" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620850407086" />
+    <state width="1323" height="397" key="GridCell.Tab.0.center" timestamp="1620850407086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="397" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1620850407086" />
+    <state width="1323" height="397" key="GridCell.Tab.0.left" timestamp="1620850407086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="397" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1620850407086" />
+    <state width="1323" height="397" key="GridCell.Tab.0.right" timestamp="1620850407086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="397" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1620850407086" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1620829793866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620829793866" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1620829793866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1620829793866" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1620829793865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1620829793865" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1620829793866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1620829793866" />
+    <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1620850049373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1620850049373" />
+    <state x="304" y="24" key="new project wizard" timestamp="1620846360182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="304" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1620846360182" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1620844183165">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1620844183165" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1620827708824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1620827708824" />
+  </component>
+</project>
